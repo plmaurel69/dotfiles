@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierre-louis.maurel@gmail.com
+	name = Pierre Louis Maurel
